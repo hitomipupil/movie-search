@@ -1,0 +1,9 @@
+header {
+    font-family: fantasy;
+    font-size: 2rem;
+    background-color: rgb(61, 59, 59);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+}
